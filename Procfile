@@ -1,1 +1,1 @@
-web: gunicorn UFBot.wsgi
+web: gunicorn uf_bot.wsgi
